@@ -18,4 +18,4 @@ def remove_produt(product):
   
 
 add_product('pen', 5)
-remove_produt('pencil')
+remove_produt('pen')
